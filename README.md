@@ -9,6 +9,11 @@ The Wooden Plank Generator is a Blender addon that allows you to quickly create 
 - **Easy Integration**: Seamlessly integrates into Blender's mesh menu for quick access.
 - **Modifiers**: Automatically adds modifiers for enhancing the appearance of the generated planks, such as subdivision surface and displacement modifiers.
 
+
+![woodenplank](https://github.com/robbieheriot/Wooden-Plank-Generator/assets/118136425/5c66bd35-6010-4153-ada5-08d98b909f14)
+
+
+
 ## Installation
 
 1. Download the `wooden_plank_generator.py` file.
